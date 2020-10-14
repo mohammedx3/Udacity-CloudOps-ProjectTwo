@@ -1,0 +1,7 @@
+[
+  {
+    "id": "cleanup-webhook",
+    "execute-command": "/home/mohammed/testhook.sh",
+    "command-working-directory": "/tmp"
+  }
+]
